@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sander Hsu</h1>
+<h1 align="center">Hi 👋, I'm Sander Xu</h1>
 - 📫 How to reach me **helgesan0202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
