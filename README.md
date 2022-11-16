@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sander Xu</h1>
 
 <h2></h2>
-<table rules="none"><tr>
+<table rules="none"><tbody><tr>
 <td align="left" width="432">
 <ul>
 <il>1</il>
@@ -13,7 +13,7 @@
 <p>
 <img src="https://media4.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761136215f565ba9ed105f784fdf4bb1852d75a8c7db&rid=giphy.gif&ct=g"  alt="Error" style="max-width: 100%;"></p>
 </td>
-</tr></table>
+</tr></tbody></table>
 
 <h2 align="left">Connect with me</h2>
 
