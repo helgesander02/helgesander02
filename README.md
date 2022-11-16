@@ -2,14 +2,19 @@
 
 <h2></h2>
 
+<table rules="none"><tbody><tr>
+<td align="left" width="464">
 <ul>
 <il>1</il>
 <il>2</il>
 <il>3</il>
 </ul>
-
+</td>
+<td align="center" width="400">
 <p>
-<img src="https://media4.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761136215f565ba9ed105f784fdf4bb1852d75a8c7db&rid=giphy.gif&ct=g"  alt="Error" style="max-width: 50%;"></p>
+<img src="https://media4.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761136215f565ba9ed105f784fdf4bb1852d75a8c7db&rid=giphy.gif&ct=g"  alt="Error" style="max-width: 100%;"></p>
+</td>
+</tr></tbody></table>
 
 
 <h2 align="left">Connect with me</h2>
