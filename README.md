@@ -3,14 +3,14 @@
 <h2></h2>
 
 <table rules="none"><tbody><tr>
-<td align="left" width="464">
+<td align="left" width="432">
 <ul>
 <il>1</il>
 <il>2</il>
 <il>3</il>
 </ul>
 </td>
-<td align="center" width="400">
+<td align="center" width="432">
 <p>
 <img src="https://media4.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761136215f565ba9ed105f784fdf4bb1852d75a8c7db&rid=giphy.gif&ct=g"  alt="Error" style="max-width: 100%;"></p>
 </td>
@@ -148,3 +148,7 @@
     </td>
   </tr></tbody></table>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helgesander02&show_icons=true&locale=en&layout=compact" alt="helgesander02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helgesander02&show_icons=true&locale=en" alt="helgesander02" /></p>
