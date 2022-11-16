@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sander Xu</h1>
 
-<table>
-<tr>
-<td align="left" width="447">
-<p>/p>
+<h2></h2>
+<table rules="none"><tr>
+<td align="left" width="432">
+<ul>
+<il>1</il>
+<il>2</il>
+<il>3</il>
+</ul>
 </td>
-<td align="center" width="447">
-<img src="https://media4.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761136215f565ba9ed105f784fdf4bb1852d75a8c7db&rid=giphy.gif&ct=g"  alt="Error" style="max-width: 100%;">
+<td align="center" width="432">
+<p>
+<img src="https://media4.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761136215f565ba9ed105f784fdf4bb1852d75a8c7db&rid=giphy.gif&ct=g"  alt="Error" style="max-width: 100%;"></p>
 </td>
-</tr>
-</table>
+</tr></table>
 
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
 <a href="mailto:helgesan0202@gmail.com"><img align="center" src="https://www.computerhope.com/jargon/g/gmail.png" alt="mailto:helgesan0202@gmail.com" height="40" width="40" /></a>
-<span>&nbsp&nbsp</span>
+<span>&nbsp&nbsp&nbsp&nbsp&nbsp</span>
 <a href="https://www.linkedin.com/in/sander-xu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sander-xu/" height="40" width="40" /></a>
-<span>&nbsp</span>
+<span>&nbsp&nbsp&nbsp</span>
 <a href="https://www.kaggle.com/helgesander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/helgesander" height="40" width="40" /></a>
-<span>&nbsp</span>
+<span>&nbsp&nbsp</span>
 <a href="https://leetcode.com/helgesander02/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="https://leetcode.com/helgesander02/" height="40" width="40" /></a>
-<span>&nbsp</span>
+<span>&nbsp&nbsp&nbsp&nbsp</span>
 <a href="https://replit.com/@helgesander02" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1577395477137526784/ECF9IL4v_400x400.jpg" alt="https://replit.com/@helgesander02" height="40" width="40" /></a>
 </p>
 <br/>
