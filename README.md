@@ -62,9 +62,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhl-nNZNvd9EJJJIqqyqYL7QzpmN_-vq1FEA&usqp=CAU" width="48" height="48" alt="Jsonnet" data-canonical-src="https://jsonnet.org/img/isologo.svg" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" width="48" height="48" style="max-width: 100%;">
       </a>
-      <br>Ruby
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.devteam.space/wp-content/uploads/2022/05/golang.jpg" width="48" height="48" alt="Tableau" style="max-width: 100%;">
+      </a>
+      <br>GO
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -84,14 +90,14 @@
       </a>
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.tableau.com/sites/default/files/2020-10/TableauSparkle_RGB.jpg" width="48" height="48" alt="Tableau" style="max-width: 100%;">
+        <img src="https://www.tableau.com/sites/default/files/2020-10/TableauSparkle_RGB.jpg" width="48" height="48" alt="PytorchLightning" style="max-width: 100%;">
       </a>
       <br>Tableau
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech">
         <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="Pytorch" style="max-width: 100%;">
@@ -103,12 +109,6 @@
         <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width="48" height="48" alt="TensorFlow" style="max-width: 100%;">
       </a>
       <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIw_VKNCk3-fKjROz5mqQarrqfC1toSpb2FPw_ecGhNiMlFoZlSwx1ZSd0-4hwxxATM-A&usqp=CAU" width="48" height="48" alt="PytorchLightning" style="max-width: 100%;">
-      </a>
-      <br>Pytorch<br>Lightning
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
