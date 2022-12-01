@@ -142,9 +142,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="48" height="48" alt="Unity" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" style="max-width: 100%;">
       </a>
-      <br>Unity
+      <br>PostgreSQL
     </td>
   </tr></tbody></table>
 </p>
