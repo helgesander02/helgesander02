@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="React" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" style="max-width: 100%;">
       </a>
       <br>Java
     </td>
@@ -62,13 +62,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" width="48" height="48" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" width="48" height="48" alt="Rust" style="max-width: 100%;">
       </a>
       <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.devteam.space/wp-content/uploads/2022/05/golang.jpg" width="48" height="48" alt="Tableau" style="max-width: 100%;">
+        <img src="https://www.devteam.space/wp-content/uploads/2022/05/golang.jpg" width="48" height="48" alt="GO" style="max-width: 100%;">
       </a>
       <br>GO
     </td>
@@ -80,21 +80,21 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="Vue.js" style="max-width: 100%;">
       </a>
       <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="48" height="48" alt="Bootstrap" style="max-width: 100%;">
+        <img src="https://pbs.twimg.com/profile_images/810981601253261312/V1zRfeKR_400x400.jpg" width="48" height="48" alt="OpenStack" style="max-width: 100%;">
       </a>
-      <br>Bootstrap
+      <br>OpenStack
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.tableau.com/sites/default/files/2020-10/TableauSparkle_RGB.jpg" width="48" height="48" alt="PytorchLightning" style="max-width: 100%;">
+        <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" width="48" height="48" alt="Tableau" style="max-width: 100%;">
       </a>
       <br>Tableau
     </td>
