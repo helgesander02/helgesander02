@@ -80,9 +80,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
       </a>
-      <br>JavaScript
+      <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
