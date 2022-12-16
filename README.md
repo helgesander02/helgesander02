@@ -72,7 +72,7 @@
       <a href="#macropower-tech">
         <img src="https://www.devteam.space/wp-content/uploads/2022/05/golang.jpg" width="48" height="48" alt="GO" style="max-width: 100%;">
       </a>
-      <br>GO
+      <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
