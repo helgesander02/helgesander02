@@ -29,6 +29,8 @@
 <a href="https://leetcode.com/helgesander02/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="https://leetcode.com/helgesander02/" height="40" width="40" /></a>
 <span>&nbsp&nbsp&nbsp&nbsp</span>
 <a href="https://replit.com/@helgesander02" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1577395477137526784/ECF9IL4v_400x400.jpg" alt="https://replit.com/@helgesander02" height="40" width="40" /></a>
+<span>&nbsp&nbsp&nbsp</span>
+<a href="https://www.figma.com/proto/uoxp5IJIVXIzqDgwU2jBIV/Portfolio?node-id=3%3A17&scaling=scale-down&page-id=0%3A1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" alt="https://www.figma.com/proto/uoxp5IJIVXIzqDgwU2jBIV/Portfolio?node-id=3%3A17&scaling=scale-down&page-id=0%3A1" height="40" width="40" /></a>
 </p>
 <br/>
 
