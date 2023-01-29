@@ -58,9 +58,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/3666/3666226.png" width="48" height="48" alt="R" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="R" style="max-width: 100%;">
       </a>
-      <br>R
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
