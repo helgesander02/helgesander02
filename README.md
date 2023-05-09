@@ -46,9 +46,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+        <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" width="48" height="48" alt="Golang" style="max-width: 100%;">
       </a>
-      <br>C#
+      <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -64,15 +64,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" width="48" height="48" alt="Rust" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="C#" style="max-width: 100%;">
       </a>
-      <br>Rust
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.devteam.space/wp-content/uploads/2022/05/golang.jpg" width="48" height="48" alt="GO" style="max-width: 100%;">
+        <img src="https://assets-global.website-files.com/63f9f100025c058594957cca/644c98b52c78b418f48de3dc_Mojo%20White%20Background%20(2).png" width="80" height="48" alt="Mojo" style="max-width: 100%;">
       </a>
-      <br>Golang
+      <br>Mojo
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -120,9 +120,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
       </a>
-      <br>Powershell
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
