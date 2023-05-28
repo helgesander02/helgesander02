@@ -52,9 +52,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://solidity-cn.readthedocs.io/zh/develop/_images/logo.svg" width="48" height="48" alt="Solidity" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="42" height="48" alt="C" style="max-width: 100%;">
       </a>
-      <br>Solidity
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -76,15 +76,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="48" height="48" alt="TypeScript" style="max-width: 100%;">
+        <img src="https://solidity-cn.readthedocs.io/zh/develop/_images/logo.svg" width="48" height="48" alt="Solidity" style="max-width: 100%;">
       </a>
-      <br>TypeScript
+      <br>Solidity
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="Vue.js" style="max-width: 100%;">
+        <img src="https://etherscan.io/images/brandassets/etherscan-logo-circle.jpg" width="48" height="48" alt="Etherscan" style="max-width: 100%;">
       </a>
-      <br>Vue.js
+      <br>Etherscan
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
