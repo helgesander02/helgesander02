@@ -52,9 +52,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" style="max-width: 100%;">
+        <img src="https://solidity-cn.readthedocs.io/zh/develop/_images/logo.svg" width="48" height="48" alt="Solidity" style="max-width: 100%;">
       </a>
-      <br>Java
+      <br>Solidity
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
