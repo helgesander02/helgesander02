@@ -70,9 +70,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://assets-global.website-files.com/63f9f100025c058594957cca/644c98b52c78b418f48de3dc_Mojo%20White%20Background%20(2).png" width="80" height="48" alt="Mojo" style="max-width: 100%;">
+        <img src="https://101blockchains.com/wp-content/uploads/2022/09/Vyper-150x150.png" width="48" height="48" alt="Vyper" style="max-width: 100%;">
       </a>
-      <br>Mojo
+      <br>Vyper
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
