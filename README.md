@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sander SYU</h1>
+<h1 align="center">Hi 👋, I'm Sander Syu</h1>
 
 <h2></h2>
 
@@ -150,8 +150,3 @@
     </td>
   </tr></tbody></table>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helgesander02&show_icons=true&locale=en" alt="helgesander02" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helgesander02&show_icons=true&locale=en&layout=compact" alt="helgesander02" /></p>
