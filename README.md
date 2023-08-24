@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sander Syu</h1>
+<h1 align="center">Hi 👋, I'm Sander Hsu</h1>
 
 <h2></h2>
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="mailto:helgesan0202@gmail.com"><img align="center" src="https://www.computerhope.com/jargon/g/gmail.png" alt="mailto:helgesan0202@gmail.com" height="40" width="40" /></a>
 <span>&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-<a href="https://www.linkedin.com/in/sander-syu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sander-syu" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sander-hsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sander-syu" height="40" width="40" /></a>
 <span>&nbsp&nbsp&nbsp</span>
 <a href="https://www.kaggle.com/helgesander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/helgesander" height="40" width="40" /></a>
 <span>&nbsp&nbsp</span>
