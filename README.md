@@ -24,7 +24,7 @@
 <span>&nbsp&nbsp&nbsp&nbsp&nbsp</span>
 <a href="https://www.linkedin.com/in/sander-hsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sander-syu" height="40" width="40" /></a>
 <span>&nbsp&nbsp&nbsp</span>
-<a href="https://www.cakeresume.com/dashboard?ref=navs_dashboard" target="blank"><img align="center" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*Hlz4AjHlRAuOHMlBVpifRA.png" alt="https://www.cakeresume.com/dashboard?ref=navs_dashboard" height="40" width="40" /></a>
+<a href="https://www.cakeresume.com/me/helgesan0202" target="blank"><img align="center" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*Hlz4AjHlRAuOHMlBVpifRA.png" alt="https://www.cakeresume.com/me/helgesan0202" height="40" width="40" /></a>
 <br/>
 
 <h2 align="left">Favorite Tech</h2>
