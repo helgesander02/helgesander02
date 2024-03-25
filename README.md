@@ -51,62 +51,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://101blockchains.com/wp-content/uploads/2022/09/Vyper-150x150.png" width="48" height="48" alt="Vyper" style="max-width: 100%;">
-      </a>
-      <br>Vyper
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="48" height="48" alt="Python" style="max-width: 100%;">
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech">
-        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="Pytorch" style="max-width: 100%;">
-      </a>
-      <br>Pytorch
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.macupdate.com/images/icons512/27014.png" width="52" height="48" alt="Cuda" style="max-width: 100%;">
-      </a>
-      <br>Cuda
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://pbs.twimg.com/profile_images/810981601253261312/V1zRfeKR_400x400.jpg" width="48" height="48" alt="OpenStack" style="max-width: 100%;">
-      </a>
-      <br>OpenStack
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" width="48" height="48" alt="Tableau" style="max-width: 100%;">
-      </a>
-      <br>Tableau
-    </td>  
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="42" height="48" alt="C" style="max-width: 100%;">
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="R" style="max-width: 100%;">
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="C#" style="max-width: 100%;">
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="docker" style="max-width: 100%;">
       </a>
       <br>docker
@@ -140,6 +84,62 @@
         <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="48" height="48" alt="MongoDB" style="max-width: 100%;">
       </a>
       <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="48" height="48" alt="Python" style="max-width: 100%;">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech">
+        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="Pytorch" style="max-width: 100%;">
+      </a>
+      <br>Pytorch
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://logodix.com/logo/2008001.png" width="48" height="48" alt="Cuda" style="max-width: 100%;">
+      </a>
+      <br>Cuda
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="42" height="48" alt="C" style="max-width: 100%;">
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="C++" style="max-width: 100%;">
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="52" height="52" alt="ShellScript" style="max-width: 100%;">
+      </a>
+      <br>ShellScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" width="48" height="48" alt="YAML" style="max-width: 100%;">
+      </a>
+      <br>YAML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="48" height="48" alt="JSON" style="max-width: 100%;">
+      </a>
+      <br>JSON
     </td>
   </tr></tbody></table>
 </p>
