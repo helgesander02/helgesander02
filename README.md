@@ -41,74 +41,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://altcoinsbox.com/wp-content/uploads/2023/01/etherscan-logo.png" width="48" height="48" alt="Etherscan" style="max-width: 100%;">
-      </a>
-      <br>Etherscan
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://solidity-cn.readthedocs.io/zh/develop/_images/logo.svg" width="48" height="48" alt="Solidity" style="max-width: 100%;">
-      </a>
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="docker" style="max-width: 100%;">
-      </a>
-      <br>docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://miro.medium.com/v2/resize:fit:256/1*zqHz-RBmkEoZ_QJwlntz7Q.png" width="48" height="48" alt="Nginx" style="max-width: 100%;">
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/redis-logo.png" width="55" height="48" alt="Redis" style="max-width: 100%;">
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" style="max-width: 100%;">
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="48" height="48" alt="MongoDB" style="max-width: 100%;">
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="48" height="48" alt="Python" style="max-width: 100%;">
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech">
-        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="Pytorch" style="max-width: 100%;">
-      </a>
-      <br>Pytorch
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://logodix.com/logo/2008001.png" width="48" height="48" alt="Cuda" style="max-width: 100%;">
-      </a>
-      <br>Cuda
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="42" height="48" alt="C" style="max-width: 100%;">
       </a>
       <br>C
@@ -133,15 +65,83 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" width="48" height="48" alt="YAML" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="docker" style="max-width: 100%;">
       </a>
-      <br>YAML
+      <br>docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="48" height="48" alt="JSON" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
       </a>
-      <br>JSON
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" width="" height="48" alt="Cypress" style="max-width: 100%;">
+      </a>
+      <br>Cypress
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="48" height="48" alt="RobotFramework" style="max-width: 100%;">
+      </a>
+      <br>RFW
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="48" height="48" alt="Python" style="max-width: 100%;">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech">
+        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="Pytorch" style="max-width: 100%;">
+      </a>
+      <br>Pytorch
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://logodix.com/logo/2008001.png" width="48" height="48" alt="Cuda" style="max-width: 100%;">
+      </a>
+      <br>Cuda
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.2/icon" width="55" height="48" alt="LangChain" style="max-width: 100%;">
+      </a>
+      <br>LangChain
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://miro.medium.com/v2/resize:fit:793/1*2crwn9fsu58hVQua-dEa3w.png" width="48" height="48" alt="Chroma" style="max-width: 100%;">
+      </a>
+      <br>Chroma
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/meta.png" width="48" height="45" alt="Faiss" style="max-width: 100%;">
+      </a>
+      <br>Faiss
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://miro.medium.com/v2/resize:fit:2400/1*-VEGyAgcIBD62XtZWavy8w.png" width="48" height="48" alt="Milvus" style="max-width: 100%;">
+      </a>
+      <br>Milvus
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" style="max-width: 100%;">
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="48" height="48" alt="MongoDB" style="max-width: 100%;">
+      </a>
+      <br>MongoDB
     </td>
   </tr></tbody></table>
 </p>
